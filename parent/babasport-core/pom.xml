@@ -16,6 +16,10 @@
 	
 	<!-- 依赖管理之Jar -->
 	<dependencies>
+	<dependency>
+				<groupId>org.hamcrest</groupId>
+				<artifactId>hamcrest-all</artifactId>
+			</dependency>
 		<!-- with junit4.8.2 -->
 		<dependency>
 			<groupId>junit</groupId>
